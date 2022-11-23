@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-11-23T16:17:31.498Z",
-    "end": "2022-11-23T16:17:31.828Z",
-    "duration": 330
+    "start": "2022-11-23T16:21:42.918Z",
+    "end": "2022-11-23T16:21:43.277Z",
+    "duration": 359
   },
   "tests": [
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,7 +41,7 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -55,14 +55,14 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,7 +83,7 @@
     {
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,7 +108,7 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceFromHqInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,14 +150,14 @@
     {
       "title": "returns the distance travelled in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns the distance travelled in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -178,7 +178,7 @@
     {
       "title": "charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
       "fullTitle": "index.js calculatesFarePrice(start, destination) charges 2 cents per foot when total feet travelled is between 400 and 2000 (remember the first 400 feet are free!)",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
